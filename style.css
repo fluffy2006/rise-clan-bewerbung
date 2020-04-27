@@ -67,15 +67,28 @@ nav{
         max-width: 800px;
     }
     #text {
+    margin-top: 50px;
     text-align: center;
-    color: rgb(21, 0, 255);
+    color: rgb(0, 0, 0);
     }
-
+    #text2 {
+        margin-top: 50px;
+        text-align: center;
+        color: rgb(169, 7, 7);
+    }
+    #text3 {
+        margin-top: 1px;
+        text-align: center;
+        color: rgb(3, 142, 47);
+    }
     #sm {
         text-align: center;
     }
     #media {
         text-align: center;
         color: rgb(154, 22, 22);
-        }
+    }
+    #discord {
+        text-align: center;
+    }
 
